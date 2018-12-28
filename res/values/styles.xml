@@ -1,0 +1,22 @@
+<resources> 
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat">
+        </style>  
+          
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <item name="colorControlNormal">@color/colorControlNormal</item>
+        <item name="colorControlActivated">@color/controlHighlight</item>
+        <item name="colorControlHighlight">@color/controlActivated</item>
+     </style>
+        
+   <style name="welcome_theme" parent="android:Theme.Holo.Light.NoActionBar">
+        <item name="android:windowBackground" >@drawable/welcome</item>
+    </style>
+
+    <style name="TextInputAppTheme" parent="Base.TextAppearance.AppCompat.Caption">
+        <item name="android:textColor">@color/text_third_title_color</item>
+     </style>
+            
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#66BB6A</color>
+    <color name="text_third_title_color">#66BB6A</color>
+    <color name="colorControlNormal">#8DFFFFFF</color>
+    <color name="windowBackground">#303030</color>
+    <color name="controlHighlight">#66BB6A</color>
+    <color name="controlActivated">#66BB6A</color>
+</resources>
